@@ -1,1 +1,1 @@
-⚠️ Do not download the source code — it only contains this README file.
+🚫 DO NOT ATTEMPT TO DOWNLOAD THE SOURCE CODE. IT DOES NOT INCLUDE ANY PROGRAM FILES, ONLY THIS README.
